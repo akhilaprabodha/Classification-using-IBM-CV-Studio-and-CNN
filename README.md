@@ -89,6 +89,9 @@ Create your own `Train` run:
   <img width="1659" alt="Deployment" src="https://github.com/akhilaprabodha/Classification-using-IBM-CV-Studio-and-CNN/assets/107745538/746d9b5c-a417-4144-8005-e68449afc56e">
 </p>
 
+> [!TIP]
+> By clicking URL you will redirect to the webpage that you can classify your own images on browser.
+
 4. Once it is ready, you will see the green READY button:
 
 <p align="center">
@@ -97,10 +100,10 @@ Create your own `Train` run:
 
 ## Task 4: Test Your Classifier
 
-1. Click on **Open Notebook** to open the Jupyter notebook from the Train model phase.
+1. Click on ```Open Notebook``` to open the Jupyter notebook from the Train model phase.
 
 > [!NOTE]
-> Make sure that the result of the training model is visible under **Details of Run**.
+> Make sure that the result of the training model is visible under ```Details of Run```.
 
 <p align="center">
   <img width="1659" alt="Details of Run" src="https://github.com/akhilaprabodha/Classification-using-IBM-CV-Studio-and-CNN/assets/107745538/45144418-4cca-4d56-89db-f46b535e7f47">
@@ -131,6 +134,7 @@ for imageName in imageNames:
 <img width="1659" alt="Screen_Shot_2021-04-27_at_3 58 39_PM" src="https://github.com/akhilaprabodha/Classification-using-IBM-CV-Studio-and-CNN/assets/107745538/1287b0a7-15a7-4334-a3a0-0e7e73ce528d">
 
 5. After uploading the images, Run the code for testing your classifier.
+
 Take a screenshot of the following image after the prediction. You can find how to take a screenshot for Mac [here](https://support.apple.com/en-ca/HT201361) and Windows [here](https://www.cnet.com/how-to/7-ways-you-can-take-screenshots-in-windows-10/#:~:text=To%20capture%20your%20entire%20screen%20and%20automatically%20save%20the%20screenshot,to%20the%20Pictures%20%3E%20Screenshots%20folder.)
 
 <img width="500" alt="Screen_Shot_2021-04-27_at_3 58 39_PM" src="https://github.com/akhilaprabodha/Classification-using-IBM-CV-Studio-and-CNN/assets/107745538/f2105751-2a4b-4f45-997b-275c94371a70">

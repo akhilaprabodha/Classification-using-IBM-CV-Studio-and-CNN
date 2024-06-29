@@ -133,6 +133,9 @@ for imageName in imageNames:
 5. After uploading the images, Run the code for testing your classifier.
 Take a screenshot of the following image after the prediction. You can find how to take a screenshot for Mac [here](https://support.apple.com/en-ca/HT201361) and Windows [here](https://www.cnet.com/how-to/7-ways-you-can-take-screenshots-in-windows-10/#:~:text=To%20capture%20your%20entire%20screen%20and%20automatically%20save%20the%20screenshot,to%20the%20Pictures%20%3E%20Screenshots%20folder.)
 
-<img width="1659" alt="Screen_Shot_2021-04-27_at_3 58 39_PM" src="https://github.com/akhilaprabodha/Classification-using-IBM-CV-Studio-and-CNN/assets/107745538/f2105751-2a4b-4f45-997b-275c94371a70">
+<img width="800" alt="Screen_Shot_2021-04-27_at_3 58 39_PM" src="https://github.com/akhilaprabodha/Classification-using-IBM-CV-Studio-and-CNN/assets/107745538/f2105751-2a4b-4f45-997b-275c94371a70">
 
 Your prediction will show at the top.
+
+## 🎉 Congratulations!
+You have successfully trained, deployed, and tested your classifier using IBM CV Studio and CNN.
